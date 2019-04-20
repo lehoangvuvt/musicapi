@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
-    "url": "/musicapi/static/media/fa-regular-400.5eb754ab.svg"
+    "revision": "5bf145531213545e03ff41cd27df7d2b",
+    "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
   },
   {
     "revision": "9a27efa44533e5ebafe8",
@@ -20,12 +20,16 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-brands-400.2ef8ba34.woff"
   },
   {
+    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
+    "url": "/musicapi/static/media/fa-brands-400.5e2f9212.woff2"
+  },
+  {
     "revision": "98b6db59be947f563350d2284fc9ea36",
     "url": "/musicapi/static/media/fa-brands-400.98b6db59.ttf"
   },
   {
-    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
-    "url": "/musicapi/static/media/fa-brands-400.5e2f9212.woff2"
+    "revision": "dcce4b7fbd5e895561e18af4668265af",
+    "url": "/musicapi/static/media/fa-regular-400.dcce4b7f.eot"
   },
   {
     "revision": "e6257a726a0cf6ec8c6fec22821c055f",
@@ -34,10 +38,6 @@ self.__precacheManifest = [
   {
     "revision": "427d721b86fc9c68b2e85ad42b69238c",
     "url": "/musicapi/static/media/fa-regular-400.427d721b.woff"
-  },
-  {
-    "revision": "a7b95dbdd87e0c809570affaf366a434",
-    "url": "/musicapi/static/media/fa-brands-400.a7b95dbd.eot"
   },
   {
     "revision": "9a27efa44533e5ebafe8",
@@ -52,16 +52,16 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-solid-900.46e7cec6.eot"
   },
   {
-    "revision": "dcce4b7fbd5e895561e18af4668265af",
-    "url": "/musicapi/static/media/fa-regular-400.dcce4b7f.eot"
-  },
-  {
     "revision": "418dad87601f9c8abd0e5798c0dc1feb",
     "url": "/musicapi/static/media/fa-solid-900.418dad87.woff2"
   },
   {
-    "revision": "5bf145531213545e03ff41cd27df7d2b",
-    "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
+    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
+    "url": "/musicapi/static/media/fa-regular-400.5eb754ab.svg"
+  },
+  {
+    "revision": "a7b95dbdd87e0c809570affaf366a434",
+    "url": "/musicapi/static/media/fa-brands-400.a7b95dbd.eot"
   },
   {
     "revision": "a7140145ebaaf5fb14e40430af5d25c4",
