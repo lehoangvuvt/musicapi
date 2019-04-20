@@ -2,13 +2,20 @@
   "name": "redux_practice_2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lehoangvuvt.github.io/musicapi",
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-recaptcha": "^2.3.10",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "soundcloud": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
