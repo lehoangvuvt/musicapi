@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "65b9977aa23185e8964b36eddbce7a20",
-    "url": "/musicapi/static/media/fa-regular-400.65b9977a.ttf"
+    "revision": "427d721b86fc9c68b2e85ad42b69238c",
+    "url": "/musicapi/static/media/fa-regular-400.427d721b.woff"
   },
   {
-    "revision": "16533b51c08cb2040e80",
+    "revision": "13eedaced8f4063b3e6e",
     "url": "/musicapi/static/css/main.8a932376.chunk.css"
   },
   {
@@ -24,6 +24,14 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-brands-400.5e2f9212.woff2"
   },
   {
+    "revision": "2ef8ba3410dcc71578a880e7064acd7a",
+    "url": "/musicapi/static/media/fa-brands-400.2ef8ba34.woff"
+  },
+  {
+    "revision": "98b6db59be947f563350d2284fc9ea36",
+    "url": "/musicapi/static/media/fa-brands-400.98b6db59.ttf"
+  },
+  {
     "revision": "dcce4b7fbd5e895561e18af4668265af",
     "url": "/musicapi/static/media/fa-regular-400.dcce4b7f.eot"
   },
@@ -32,16 +40,16 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-regular-400.e6257a72.woff2"
   },
   {
+    "revision": "13eedaced8f4063b3e6e",
+    "url": "/musicapi/static/js/main.c4172050.chunk.js"
+  },
+  {
+    "revision": "65b9977aa23185e8964b36eddbce7a20",
+    "url": "/musicapi/static/media/fa-regular-400.65b9977a.ttf"
+  },
+  {
     "revision": "5bf145531213545e03ff41cd27df7d2b",
     "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
-  },
-  {
-    "revision": "427d721b86fc9c68b2e85ad42b69238c",
-    "url": "/musicapi/static/media/fa-regular-400.427d721b.woff"
-  },
-  {
-    "revision": "16533b51c08cb2040e80",
-    "url": "/musicapi/static/js/main.f941a641.chunk.js"
   },
   {
     "revision": "5eb754ab7dbd2fee562360528db4c3c0",
@@ -60,10 +68,6 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-solid-900.a7140145.woff"
   },
   {
-    "revision": "2ef8ba3410dcc71578a880e7064acd7a",
-    "url": "/musicapi/static/media/fa-brands-400.2ef8ba34.woff"
-  },
-  {
     "revision": "ff8d9f8adb0d09f11d4816a152672f53",
     "url": "/musicapi/static/media/fa-solid-900.ff8d9f8a.ttf"
   },
@@ -72,11 +76,7 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "98b6db59be947f563350d2284fc9ea36",
-    "url": "/musicapi/static/media/fa-brands-400.98b6db59.ttf"
-  },
-  {
-    "revision": "9062cf2ffd0b8ecefc7a4574191bb2fc",
+    "revision": "9e78d9f150e5dcbcb68a0ea1c594b500",
     "url": "/musicapi/index.html"
   }
 ];
