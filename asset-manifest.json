@@ -1,13 +1,13 @@
 {
   "main.css": "/musicapi/static/css/main.8a932376.chunk.css",
-  "main.js": "/musicapi/static/js/main.c4172050.chunk.js",
-  "main.js.map": "/musicapi/static/js/main.c4172050.chunk.js.map",
+  "main.js": "/musicapi/static/js/main.cf8f3fd7.chunk.js",
+  "main.js.map": "/musicapi/static/js/main.cf8f3fd7.chunk.js.map",
   "runtime~main.js": "/musicapi/static/js/runtime~main.50178bed.js",
   "runtime~main.js.map": "/musicapi/static/js/runtime~main.50178bed.js.map",
   "static/js/2.eed1ddd3.chunk.js": "/musicapi/static/js/2.eed1ddd3.chunk.js",
   "static/js/2.eed1ddd3.chunk.js.map": "/musicapi/static/js/2.eed1ddd3.chunk.js.map",
   "index.html": "/musicapi/index.html",
-  "precache-manifest.6d63cd3dce6845cb65c05c2db5b979f2.js": "/musicapi/precache-manifest.6d63cd3dce6845cb65c05c2db5b979f2.js",
+  "precache-manifest.c2e9c1534b15efdeb7a960fa8f2af7e1.js": "/musicapi/precache-manifest.c2e9c1534b15efdeb7a960fa8f2af7e1.js",
   "service-worker.js": "/musicapi/service-worker.js",
   "static/css/main.8a932376.chunk.css.map": "/musicapi/static/css/main.8a932376.chunk.css.map",
   "static/media/all.css": "/musicapi/static/media/fa-solid-900.ff8d9f8a.ttf"
