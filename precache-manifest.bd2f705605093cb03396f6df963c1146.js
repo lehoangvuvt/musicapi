@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-regular-400.427d721b.woff"
   },
   {
-    "revision": "f3c7fc3daa96997cc381",
-    "url": "/musicapi/static/css/main.92b5b41e.chunk.css"
+    "revision": "3055e234ca16d1d4c6ae",
+    "url": "/musicapi/static/css/main.2f1e10d4.chunk.css"
   },
   {
     "revision": "7ddfdbd2e7f3734ad50b",
@@ -28,20 +28,28 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-brands-400.2ef8ba34.woff"
   },
   {
-    "revision": "5bf145531213545e03ff41cd27df7d2b",
-    "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
+    "revision": "98b6db59be947f563350d2284fc9ea36",
+    "url": "/musicapi/static/media/fa-brands-400.98b6db59.ttf"
+  },
+  {
+    "revision": "dcce4b7fbd5e895561e18af4668265af",
+    "url": "/musicapi/static/media/fa-regular-400.dcce4b7f.eot"
   },
   {
     "revision": "e6257a726a0cf6ec8c6fec22821c055f",
     "url": "/musicapi/static/media/fa-regular-400.e6257a72.woff2"
   },
   {
-    "revision": "98b6db59be947f563350d2284fc9ea36",
-    "url": "/musicapi/static/media/fa-brands-400.98b6db59.ttf"
+    "revision": "3055e234ca16d1d4c6ae",
+    "url": "/musicapi/static/js/main.e919a23a.chunk.js"
   },
   {
-    "revision": "f3c7fc3daa96997cc381",
-    "url": "/musicapi/static/js/main.e919a23a.chunk.js"
+    "revision": "5bf145531213545e03ff41cd27df7d2b",
+    "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
+  },
+  {
+    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
+    "url": "/musicapi/static/media/fa-regular-400.5eb754ab.svg"
   },
   {
     "revision": "65b9977aa23185e8964b36eddbce7a20",
@@ -56,27 +64,19 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-solid-900.418dad87.woff2"
   },
   {
-    "revision": "ff8d9f8adb0d09f11d4816a152672f53",
-    "url": "/musicapi/static/media/fa-solid-900.ff8d9f8a.ttf"
-  },
-  {
     "revision": "a7140145ebaaf5fb14e40430af5d25c4",
     "url": "/musicapi/static/media/fa-solid-900.a7140145.woff"
+  },
+  {
+    "revision": "ff8d9f8adb0d09f11d4816a152672f53",
+    "url": "/musicapi/static/media/fa-solid-900.ff8d9f8a.ttf"
   },
   {
     "revision": "49279363201ed19a840796e05a74a91b",
     "url": "/musicapi/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "dcce4b7fbd5e895561e18af4668265af",
-    "url": "/musicapi/static/media/fa-regular-400.dcce4b7f.eot"
-  },
-  {
-    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
-    "url": "/musicapi/static/media/fa-regular-400.5eb754ab.svg"
-  },
-  {
-    "revision": "e4166f4c30802f7c11c0c2d7a744a4f4",
+    "revision": "c4c89f265b5b804f2e75938750586cb3",
     "url": "/musicapi/index.html"
   }
 ];
