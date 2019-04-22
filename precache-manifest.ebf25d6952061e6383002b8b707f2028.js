@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "e6257a726a0cf6ec8c6fec22821c055f",
-    "url": "/musicapi/static/media/fa-regular-400.e6257a72.woff2"
+    "revision": "427d721b86fc9c68b2e85ad42b69238c",
+    "url": "/musicapi/static/media/fa-regular-400.427d721b.woff"
   },
   {
-    "revision": "f6b59357a0fc06bdeedd",
+    "revision": "3e278167410fc86660ca",
     "url": "/musicapi/static/css/main.8a932376.chunk.css"
   },
   {
@@ -32,32 +32,32 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-brands-400.98b6db59.ttf"
   },
   {
-    "revision": "5bf145531213545e03ff41cd27df7d2b",
-    "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
+    "revision": "e6257a726a0cf6ec8c6fec22821c055f",
+    "url": "/musicapi/static/media/fa-regular-400.e6257a72.woff2"
   },
   {
     "revision": "dcce4b7fbd5e895561e18af4668265af",
     "url": "/musicapi/static/media/fa-regular-400.dcce4b7f.eot"
   },
   {
-    "revision": "f6b59357a0fc06bdeedd",
-    "url": "/musicapi/static/js/main.cf8f3fd7.chunk.js"
-  },
-  {
-    "revision": "427d721b86fc9c68b2e85ad42b69238c",
-    "url": "/musicapi/static/media/fa-regular-400.427d721b.woff"
+    "revision": "3e278167410fc86660ca",
+    "url": "/musicapi/static/js/main.d10d45fe.chunk.js"
   },
   {
     "revision": "65b9977aa23185e8964b36eddbce7a20",
     "url": "/musicapi/static/media/fa-regular-400.65b9977a.ttf"
   },
   {
-    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
-    "url": "/musicapi/static/media/fa-regular-400.5eb754ab.svg"
+    "revision": "5bf145531213545e03ff41cd27df7d2b",
+    "url": "/musicapi/static/media/fa-brands-400.5bf14553.svg"
   },
   {
     "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
     "url": "/musicapi/static/media/fa-solid-900.46e7cec6.eot"
+  },
+  {
+    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
+    "url": "/musicapi/static/media/fa-regular-400.5eb754ab.svg"
   },
   {
     "revision": "418dad87601f9c8abd0e5798c0dc1feb",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/musicapi/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "f1d05cefa87082126889e7c2fba037ba",
+    "revision": "8cc292bc33399212ef60933de52a0126",
     "url": "/musicapi/index.html"
   }
 ];
